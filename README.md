@@ -11,4 +11,4 @@ OS: Windows 10 / kali linux / linux distros
 
 ## Current project
 <hr></hr>
-The current project im working on is my discord bot [House Keeper](https://github.com/lubnc4261/House-Keeper)
+The current project im working on, is my discord bot House Keeper, it is pinned down below
