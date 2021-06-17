@@ -5,8 +5,8 @@ You can contact me on discord since its the easiest way, my tag is: Militär Sta
 
 ## 🔧 Technologies & Tools
 <hr></hr>
-Editor: Visual studio code
-Languages: Python 3
+Editor: Visual studio code,
+Languages: Python 3,
 OS: Windows 10 / kali linux / linux distros
 
 ## Current project
